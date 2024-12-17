@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'easypost'
+gem 'easypost', '~> 6.4.1'
 gem 'printnode'
 gem 'sinatra'
 gem 'dotenv'
